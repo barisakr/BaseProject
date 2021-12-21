@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Kp0cfkvj4s99N/pSF6DFSpLE6B1vVDXpU83lF25zPcfjVvKs7bKsb25jUceeoYU/smTiuEKUj3lvpqXMrLJkA==",
+  "dgSpecHash": "EBExBZBsOI1P9Q8HZf3f/ELdkt2rkwCQHfOs1CmmXU1RLvPUCMV4iFmA1LB07WDIDiynSymVTCVjy5a7QU0LFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\baris.akar\\OneDrive - Doğuş Holding A.Ş\\Masaüstü\\DesignPattern\\BaseIdentity\\WebApp.Adapter\\BaseProject\\WebApp.Adapter.csproj",
+  "projectFilePath": "C:\\Users\\baris.akar\\OneDrive - Doğuş Holding A.Ş\\Masaüstü\\Adapter\\WebApp.Adapter\\BaseProject\\WebApp.Adapter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\baris.akar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\baris.akar\\.nuget\\packages\\lazziya.imageresize\\4.1.0\\lazziya.imageresize.4.1.0.nupkg.sha512",
@@ -133,8 +133,7 @@
     "C:\\Users\\baris.akar\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\baris.akar\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\baris.akar\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\baris.akar\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\baris.akar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+    "C:\\Users\\baris.akar\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
